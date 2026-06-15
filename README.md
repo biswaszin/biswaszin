@@ -54,8 +54,8 @@ FUZZY MIND
 
 ### Currently learning
 ```
-—  GO
-—  C
+—  NETWORKING / SERVER
+—  LOW-LEVEL
 ```
 
 ---
