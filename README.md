@@ -2,16 +2,16 @@
 
 ```
 CASE №          2026 / 001
-NAME            Ankit Biswas
+NAME            ANKIT BISWAS
 ROLE            STUDENT
 LOCATION        ASIA/KOL
-STATUS          Busy · Active · Building
+STATUS          ACTIVE · BUILDING
 LOVE            CAT
 STATE           FUZZY MIND 
 ```
 
 > *"GIT GUD"*  
-> — hornet · hollow knight · still true
+> — hornet · hollow knight
 
 ## FILE No. 002 — SKILLS
 
