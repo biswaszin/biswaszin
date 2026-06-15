@@ -33,18 +33,3 @@ STATE           FUZZY MIND
 —  NETWORKING / SERVER
 —  LOW-LEVEL
 ```
-
-## FILE No. 003 — ON THE CASE
-
-Selected work · Keeping it up
-
-```
-—  dotfiles     github.com/biswaszin/dotfiles
-—  ls-btw       github.com/biswaszin/ls-btw
-—  fetchman     github.com/biswaszin/fetchman
-```
-
-— [dotfiles](https://github.com/biswaszin/dotfiles)  
-— [ls-btw](https://github.com/biswaszin/ls-btw)  
-— [fetchman](https://github.com/biswaszin/fetchman)
-
