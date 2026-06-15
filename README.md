@@ -13,7 +13,7 @@ STATE           FUZZY MIND
 > *"GIT GUD"*  
 > — hornet · hollow knight
 
-## FILE No. 002 — SKILLS
+## SKILLS
 
 — Going down the rabbit hole.
 
