@@ -1,35 +1,5 @@
-# ANKIT BISWAS · PROFILE · XX/X/MMIV
+[![header](https://github.com/biswaszin/biswaszin/blob/b3d2582ce892e073247ca14327bff468e3cd59ab/header.png)]
 
-```
-CASE №          2026 / 001
-NAME            ANKIT BISWAS
-ROLE            STUDENT
-LOCATION        ASIA/KOL
-STATUS          ACTIVE · BUILDING
-LOVE            CAT
-STATE           FUZZY MIND 
-```
+hi!
 
-> *"GIT GUD"*  
-> — hornet · hollow knight
-
-## SKILLS
-
-— Going down the rabbit hole.
-
-### Languages
-```
-—  GO
-—  C
-—  PYTHON
-```
-### Tools & Platforms
-```
-—  ZED
-—  NEOVIM
-```
-### Currently learning
-```
-—  NETWORKING / SERVER
-—  LOW-LEVEL
-```
+backend // building // **XXXMMIV**
