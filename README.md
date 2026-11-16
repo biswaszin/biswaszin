@@ -1,6 +1,6 @@
-[![header](https://github.com/biswaszin/biswaszin/blob/982684e9bb7753f76b8cdc37f2730d20764c585d/1-the-backwater%20(1).jpg)](https://biswaszin.github.io/)
+[![header](https://github.com/biswaszin/biswaszin/blob/982684e9bb7753f76b8cdc37f2730d20764c585d/1-the-backwater%20(1).jpg)](https://biswaszin.com/)
 <p align="right"><sub>[ 0 ] soon me and my lady</sub></p>
 
-[ 1 ] [website](https://biswaszin.github.io/)
+[ 1 ] [website](https://biswaszin.com/)
 
 [ 2 ] cats // break // xxxmmiv
